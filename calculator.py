@@ -11,7 +11,7 @@ allowed_names.update({
 
 def advanced_calculator():
     print("Advanced Calculator (type 'exit' to quit)")
-    print("Supported functions: +, -, *, /, %, **, sin, cos, tan, log, sqrt, factorial, exp, pi, e, abs, round")
+    print("Supported functions: +, -, *, /, %, **, sin, cos, tan, sqrt, factorial, exp, pi, e, abs, round")
     
     while True:
         expr = input(">>> ")
